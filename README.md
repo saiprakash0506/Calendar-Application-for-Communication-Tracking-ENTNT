@@ -62,6 +62,9 @@ __Reporting Module__
 
 
 # ScreenShots
-![admin module ](image.png)
-![user module ](image-1.png)
-![reporting and analytics](image-2.png)
+![Screenshot 2024-12-31 174348](https://github.com/user-attachments/assets/84cb6fc1-d435-4c41-86cc-b7e7877aed78)
+![Screenshot 2024-12-31 174433](https://github.com/user-attachments/assets/997ce777-30e1-49b2-ba97-3fa905dcdfc3)
+![Screenshot 2024-12-31 174457](https://github.com/user-attachments/assets/0507712d-ffa1-45e6-b51c-f391ed167f82)
+
+
+
